@@ -1,5 +1,5 @@
 # IDSEC-SCANX
-This tool will do port and network scans for you.
+<h1>This tool will do port and network scans for you</h1>
 
 If you press 1 it will scan the network for you.
 
