@@ -1,7 +1,7 @@
 # IDSEC-SCANX
 <h1>This tool will do port and network scans for you</h1>
 
-<img widht="457" height="433" src="https://i.hizliresim.com/97br60u.png">
+<img widht="257" height="233" src="https://i.hizliresim.com/97br60u.png">
 
 <strong>If you press 1 it will scan the network for you</strong>
 
