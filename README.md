@@ -8,3 +8,5 @@
 <strong>Press 3 and it will scan both the network and ports for you</strong>
 
 <strong>Your network settings should be in bridge adapter</strong>
+
+<img widht="457" height="433" src="https://i.hizliresim.com/97br60u.png">
