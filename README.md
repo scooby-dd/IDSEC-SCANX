@@ -3,8 +3,8 @@
 
 <strong>If you press 1 it will scan the network for you</strong>
 
-If you press 2 it will scan the ports for you.
+<strong>If you press 2 it will scan the ports for you</strong>
 
-Press 3 and it will scan both the network and ports for you.
+<strong>Press 3 and it will scan both the network and ports for you</strong>
 
-your network settings should be in bridge adapter
+<strong>Your network settings should be in bridge adapter</strong>
