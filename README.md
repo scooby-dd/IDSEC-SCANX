@@ -11,4 +11,4 @@
 
 <strong>Your network settings should be in bridge adapter</strong>
 
-Your scans are now faster with fast-idsec-scanx
+<strong> Your scans are now faster with fast-idsec-scanx </strong>
