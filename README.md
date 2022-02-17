@@ -3,18 +3,18 @@
 
 <img widht="257" height="233" src="https://i.hizliresim.com/97br60u.png">
 
-**1**. Git Clone,
+**1**. Git Clone
 
 ```ps 
 git clone https://github.com/scooby-dd/IDSEC-SCANX
 ```
 
-**2**. Open Scanner,
+**2**. Open Scanner
 
 ```ps 
 cd IDSEC-SCANX
 ls
-python3 ıdsec-scanx.py
+sudo python3 ıdsec-scanx.py
 ```
 
 <strong>If you press 1 it will scan the network for you</strong>
