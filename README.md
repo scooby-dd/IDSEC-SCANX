@@ -20,6 +20,12 @@ cd IDSEC-SCANX
 ls
 sudo python3 ıdsec-scanx.py
 ```
+## Solutions For Errors :dart:
 
+**1**. Solution To Scapy Errors
+
+```ps 
+pip install scapy
+```
 
 ![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)
