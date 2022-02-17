@@ -4,8 +4,8 @@
 
 |SSHC|Yetki|Linkler|
 |:---:|:---:|:---:|
-|Ali|Server Admin|[![Ali](https://img.shields.io/badge/sshc-discord-black)](https://discord.com/users/722134683650883697)|
-|İsmali|Exploit Developer|[![İsmail](https://img.shields.io/badge/sshc-discord-red)](https://discord.com/users/782245134062321694)|
+|Ali|Server Admin|[![Ali](https://img.shields.io/badge/sshc-discord-black)](https://discord.com/users/846134648433410100)|
+|İsmali|Exploit Developer|[![İsmail](https://img.shields.io/badge/sshc-discord-red)](https://discord.com/users/561872492164153355)|
 
 
 <strong>THIS TOOL WİLL DO PORT AND NETWORK SCANS FOR YOU</strong>
