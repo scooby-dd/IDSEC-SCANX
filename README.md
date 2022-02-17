@@ -1,7 +1,7 @@
 # IDSEC-SCANX
 ![PRs Welcome](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
-<strong>This tool will do port and network scans for you</strong>
+<strong>THİS TOOL WİLL DO PORT AND NETWORK SCANS FOR YOU</strong>
 
 <img widht="257" height="233" src="https://i.hizliresim.com/97br60u.png">
 
