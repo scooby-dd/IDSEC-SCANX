@@ -3,6 +3,8 @@
 
 <img widht="257" height="233" src="https://i.hizliresim.com/97br60u.png">
 
+## İnstallation :handshake:
+
 **1**. Git Clone
 
 ```ps 
