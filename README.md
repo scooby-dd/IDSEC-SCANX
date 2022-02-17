@@ -1,5 +1,5 @@
 # IDSEC-SCANX
-![PRs Welcome](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) 
+![PRs Welcome](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) ![Supported OS](https://img.shields.io/badge/Supported%20OS-Linux-yellow.svg)
 
 <strong>THIS TOOL WİLL DO PORT AND NETWORK SCANS FOR YOU</strong>
 
