@@ -1,5 +1,5 @@
 # IDSEC-SCANX
-![PRs Welcome](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) ![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)
+![PRs Welcome](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) 
 
 <strong>THIS TOOL WİLL DO PORT AND NETWORK SCANS FOR YOU</strong>
 
@@ -21,3 +21,4 @@ ls
 sudo python3 ıdsec-scanx.py
 ```
 
+![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)
